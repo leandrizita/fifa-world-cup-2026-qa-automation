@@ -7,11 +7,11 @@ Criar uma suíte completa de testes automatizados para validar dados da Copa do 
 
 O projeto pode demonstrar conhecimentos em:
 
-Automação Web
-Testes de API
-Testes de Contrato
-Validação de Dados
-BDD
-CI/CD
-Relatórios
-Boas práticas (Page Object, Factory, Fixtures)
+Automação Web <br>
+Testes de API<br>
+Testes de Contrato <br>
+Validação de Dados <br>
+BDD <br>
+CI/CD <br>
+Relatórios <br>
+Boas práticas (Page Object, Factory, Fixtures) <br>
