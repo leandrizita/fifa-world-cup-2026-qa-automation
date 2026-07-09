@@ -1,0 +1,6 @@
+given()
+.when()
+.get("/matches")
+.then()
+.statusCode(200)
+.body("matches.size()", greaterThan(0));
